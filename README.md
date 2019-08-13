@@ -1,2 +1,5 @@
 # code_review
-code review practice
+Workspace for the code review practice
+
+# Goal
+ - Lean code review process
